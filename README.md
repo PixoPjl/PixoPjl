@@ -27,7 +27,8 @@
   </p>
 
   <div class="markdown-heading" dir="auto">
-    <h3 tabindex="-1" class="heading-element" dir="auto">Most Used Languages | Stats</h3>
+    <h3 tabindex="-1" class="heading-element" dir="auto">GitHub Stats
+</h3>
   </div>
   
   <p dir="auto">
