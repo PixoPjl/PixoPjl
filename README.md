@@ -1,27 +1,45 @@
-<article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png"><img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png" style="max-width: 100%;"></a></p>
-<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto">
-    <a href="https://elidianaandrade.github.io/" rel="nofollow">
-     <img align="center" alt="Logo Elidiana Andrade" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png" style="max-width: 100%;"></a>
-    <span>Elidiana Andrade</span>
-</h1><a id="user-content--------------elidiana-andrade" class="anchor" aria-label="Permalink: Elidiana Andrade" href="#-------------elidiana-andrade"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p align="justify" dir="auto">Tech Education Analyst at DIO, post graduating at Software Development with Agile Methodology. My first "Hello World" was in pre-teens when I had contact with HTML, CSS and a little bit of JavaScript and Notepad++. 
-<br>
- Passionate about arts and technology, some of my hobbies are games, watching, reading, and making cosplay accessories <a href="https://www.instagram.com/elicosmaker/" rel="nofollow">(@elicosmaker)</a>.</p>
+<article class="markdown-body entry-content container-lg" itemprop="text">
+  <p dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+      <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png" style="max-width: 100%;">
+    </a>
+  </p>
 
-<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto">Connect with me</h3><a id="user-content-connect-with-me" class="anchor" aria-label="Permalink: Connect with me" href="#connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p dir="auto"><a href="https://www.linkedin.com/in/elidianaandrade/" rel="nofollow"><img src="https://camo.githubusercontent.com/1b246e3a6fa04728c6c5bfecd0d1430288447882e520033c1eca4f4a138728f9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d46463030463626636f6c6f723a464646" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&amp;logo=linkedin&amp;logoColor=FF00F6&amp;color:FFF" style="max-width: 100%;"></a>
-<a href="https://www.instagram.com/elicosmaker/" rel="nofollow"><img src="https://camo.githubusercontent.com/2dc64ea38c7285a485c5e10e4b81b994c5aa3b9e80087698d772ca35949411c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d46463030463626636f6c6f723a464646" alt="Instagram" data-canonical-src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&amp;logo=instagram&amp;logoColor=FF00F6&amp;color:FFF" style="max-width: 100%;"></a>
-<a href="https://www.youtube.com/@casalfullstack" rel="nofollow"><img src="https://camo.githubusercontent.com/fda369645fa0ce983d54a694aa873355c9b43eeec4cea75c38179ce89f99bac2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d596f75547562652d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d46463030463626636f6c6f723a464646" alt="YouTube" data-canonical-src="https://img.shields.io/badge/-YouTube-000?style=for-the-badge&amp;logo=youtube&amp;logoColor=FF00F6&amp;color:FFF" style="max-width: 100%;"></a></p>
-<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto">GitHub Stats</h3><a id="user-content-github-stats" class="anchor" aria-label="Permalink: GitHub Stats" href="#github-stats"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1996581d2d91c6148746b8f7ca035d037ec16e526a3d7898cebe0d01bd5a0534/68747470733a2f2f6769746875622d726561646d652d73746174732d6769742d6d617374657272737461612d7269636b737461612e76657263656c2e6170702f6170693f757365726e616d653d656c696469616e61616e647261646526686964655f7469746c653d747275652673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d74727565266c696e655f6865696768743d323526686964653d6973737565732662675f636f6c6f723d303030267469746c655f636f6c6f723d46463030463626746578745f636f6c6f723d46464626626f726465725f7261646975733d3326626f726465725f636f6c6f723d3336313233632669636f6e5f636f6c6f723d464630304636267468656d653d6a6f6c6c79"><img src="https://camo.githubusercontent.com/1996581d2d91c6148746b8f7ca035d037ec16e526a3d7898cebe0d01bd5a0534/68747470733a2f2f6769746875622d726561646d652d73746174732d6769742d6d617374657272737461612d7269636b737461612e76657263656c2e6170702f6170693f757365726e616d653d656c696469616e61616e647261646526686964655f7469746c653d747275652673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d74727565266c696e655f6865696768743d323526686964653d6973737565732662675f636f6c6f723d303030267469746c655f636f6c6f723d46463030463626746578745f636f6c6f723d46464626626f726465725f7261646975733d3326626f726465725f636f6c6f723d3336313233632669636f6e5f636f6c6f723d464630304636267468656d653d6a6f6c6c79" alt="GitHub stats" data-canonical-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=elidianaandrade&amp;hide_title=true&amp;show_icons=true&amp;include_all_commits=false&amp;count_private=true&amp;line_height=25&amp;hide=issues&amp;bg_color=000&amp;title_color=FF00F6&amp;text_color=FFF&amp;border_radius=3&amp;border_color=36123c&amp;icon_color=FF00F6&amp;theme=jolly" style="max-width: 100%;"></a></p>
+  <div class="markdown-heading" dir="auto">
+    <h1 tabindex="-1" class="heading-element" dir="auto">
+      <span>Victor Lobato</span>
+    </h1>
+  </div>
 
-<details align="left" open="">
-  <summary></summary> 
-<ul dir="auto">
-<li>Badges by <a href="https://shields.io/" rel="nofollow">shields.io</a><br></li>
-<li>GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a></li>
-<li>Developer vector created by <a href="https://www.freepik.com/vectors/developer" rel="nofollow">storyset - </a><a href="http://www.freepik.com" rel="nofollow">www.freepik.com</a> (edited by author)</li>
-</ul>
-  <div align="right" dir="auto">Made with 💜 by <a href="https://github.com/elidianaandrade">EA</a>.</div>
-</details>
+  <p align="justify" dir="auto">
+    Computer Technician with an intermediate level in Python and a passion for technology since I was 13, when I first encountered HTML and Python. By the age of 16, I was already creating bots to automate tasks and manage payments on Telegram, as well as developing bots for Discord. Currently, I am pursuing professional expertise in Python while expanding my knowledge in data analysis, databases, and artificial intelligence/machine learning.
+    <br>
+    As an enthusiast of both arts and technology, my hobbies include gaming, reading, and studying.
+  </p>
+
+  <div class="markdown-heading" dir="auto">
+    <h3 tabindex="-1" class="heading-element" dir="auto">Connect with me</h3>
+  </div>
+
+  <!-- Remova quebras de linha e espaços entre os <a> para evitar underscore indesejado -->
+  <p dir="auto">
+    <a href="https://www.linkedin.com/in/victor-lobato-729523284/" rel="nofollow"><img src="https://camo.githubusercontent.com/1b246e3a6fa04728c6c5bfecd0d1430288447882e520033c1eca4f4a138728f9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d46463030463626636f6c6f723a464646" alt="LinkedIn"></a><a href="https://discord.gg/AF3Hgvjxd5" rel="nofollow"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a><a href="mailto:pixodevbusiness@gmail.com" rel="nofollow"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF" alt="Email"></a>
+  </p>
+
+  <div class="markdown-heading" dir="auto">
+    <h3 tabindex="-1" class="heading-element" dir="auto">Most Used Languages | Stats</h3>
+  </div>
+  
+  <p dir="auto">
+    <img src="https://github-readme-stats.vercel.app/api?username=pixopjl&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats">
+  </p>
 </article>
+<details align="left">
+  <summary></summary> 
+  <ul dir="auto">
+    <li>Badges by <a href="https://shields.io/" rel="nofollow">shields.io</a><br></li>
+    <li>GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a></li>
+    <li>Developer vector created by <a href="https://www.freepik.com/vectors/developer" rel="nofollow">storyset - </a><a href="http://www.freepik.com" rel="nofollow">www.freepik.com</a> (edited by author)</li>
+  </ul>
+  <div align="right" dir="auto">Made with 💜 by <a href="https://github.com/pixopjl">VL</a>.</div>
+</details>
