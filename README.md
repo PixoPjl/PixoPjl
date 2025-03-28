@@ -12,9 +12,9 @@
   </div>
 
   <p align="justify" dir="auto">
-    Computer Technician with an intermediate level in Python and a passion for technology since I was 13, when I first encountered HTML and Python. By the age of 16, I was already creating bots to automate tasks and manage payments on Telegram, as well as developing bots for Discord. Currently, I am pursuing professional expertise in Python while expanding my knowledge in data analysis, databases, and artificial intelligence/machine learning.
+    Técnico em Informática e programador Python, uma paixão por tecnologia desde os 13 anos, quando tive meu primeiro contato com HTML e Python. Aos 16 anos, já estava criando bots para automatizar tarefas e gerenciar pagamentos no Telegram, além de desenvolver bots para o Discord. Atualmente, estou aprimorando minha experiência profissional em Python enquanto expandindo meus conhecimentos em análise de dados, bancos de dados e Inteligência artificial/Machine learning.
     <br>
-    As an enthusiast of both arts and technology, my hobbies include gaming, reading, and studying.
+    Uma grande paixão por tecnologia e quanto por artes, meus hobbies incluem jogar, ler e estudar.
   </p>
 
   <div class="markdown-heading" dir="auto">
@@ -27,7 +27,7 @@
   </p>
 
   <div class="markdown-heading" dir="auto">
-    <h3 tabindex="-1" class="heading-element" dir="auto">GitHub Stats
+    <h3 tabindex="-1" class="heading-element" dir="auto">GitHub StatUs
 </h3>
   </div>
   
