@@ -27,7 +27,7 @@
   </p>
 
   <div class="markdown-heading" dir="auto">
-    <h3 tabindex="-1" class="heading-element" dir="auto">GitHub StatUs
+    <h3 tabindex="-1" class="heading-element" dir="auto">GitHub Status
 </h3>
   </div>
   
